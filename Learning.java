@@ -5,7 +5,6 @@ public class Learning {
         System.out.println("update 2");
         System.out.println("update 3");
         System.out.println("update 4");
-        System.out.println("update 5");
 
 
     }

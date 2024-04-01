@@ -3,6 +3,7 @@ public class Learning {
         System.out.println("initial");
         System.out.println("update 1");
         System.out.println("update 2");
+        System.out.println("update 3");
 
     }
 }
